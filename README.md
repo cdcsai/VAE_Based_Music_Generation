@@ -1,4 +1,4 @@
-This repository contains scripts, data and a report for VAE based music generation, for the course "Techniques Avancées d'Apprentissage",
+This repository contains scripts, data and a report for VAE based music and image generation, for the course "Techniques Avancées d'Apprentissage",
 given by Stéphan Clémençon @ENSAE ParisTech in Spring 2018. Note that the repository has to be cloned in order to visualise the python notebook.
 
 
